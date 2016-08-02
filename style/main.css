@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	font-family: monospace;
+}
+
+.login {
+	margin-top: 20vh;
+}
+
+.leaderboard-rank-display {
+	position: relative;
+	padding-top: 27vh;
+	margin-bottom: 5px;
+	font-size: 4em;
+}
+
+.comma-points-display	 {
+	color: goldenrod;
+	font-size: 3em;
+}
+
+.login-button {
+	margin-top: 15px;
+	height: 40px;
+	width: 100px;
+}
